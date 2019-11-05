@@ -4,8 +4,8 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-img = cv2.imread("lowcontrast.tif",0)
-img2 = img
+img = cv2.imread("lowcontrast.png",0)
+img2 = img.copy()
 
 #alpha (1.0-3.0) Contrast Control
 alpha = 2

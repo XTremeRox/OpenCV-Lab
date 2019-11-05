@@ -1,7 +1,7 @@
 # Day 7 - Noise
 
 ## Prog1
-> WAP to estimate a noise function in a noisy image by displayingthe histogram of a sub-region of the given input image.
+> WAP to estimate a noise function in a noisy image by displaying the histogram of a sub-region of the given input image.
 
 > HINT - Add some noise such as Gaussian noise, Rayleigh noise, Gamma noise, Exponential Noise, Uniform Noise and then have the histogram of corresponding patches of the sub-region of the given noisy image.
 

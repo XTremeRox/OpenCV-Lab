@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Program to apply FFT and obtain histogram oof output image
+#Program to apply FFT and obtain histogram of output image
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
